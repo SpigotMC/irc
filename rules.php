@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>SpigotMC IRC</title>
+        <title>SpigotMC IRC Rules</title>
         <style>
             body { text-align: center; padding: 90px; }
             h1 { font-size: 50px; }
