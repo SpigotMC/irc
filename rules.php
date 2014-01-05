@@ -17,7 +17,7 @@
 
     <body>
         <article>
-	       <?php echo Parsedown::instance()->parse(file_get_contents("Draft-Ruleset.md")); ?>
+	       <?php echo Parsedown::instance()->parse(file_get_contents("rules.md")); ?>
         </article>
     </body>
 </html>
