@@ -1,5 +1,5 @@
 <?php
-	require("lib/Parsedown.php");
+    require_once("lib/Markdown_Parser.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -25,7 +25,7 @@
                 <a href="modes.php">Modes and Extbans</a> | 
                 <a href="services.php">Services</a>
             </p>
-            <?php echo Parsedown::instance()->parse(file_get_contents("modes.md")); ?>
+            <?php echo Markdown(file_get_contents("modes.md")); ?>
         </article>
     </body>
 </html>
