@@ -1,7 +1,7 @@
 [Home](index.php) | [Webchat](iris/) | Rules | [Modes and Extbans](modes.php) | [Services](services.php)
 
 #Spigot IRC Ruleset
-#### Draft rev 2014-01-03
+#### Draft rev 2014-01-06
 
 The following ruleset is a draft outline of the rules for the SpigotMC IRC network. Whilst these rules may be completely disparate from the final versions, at this point in time they will be enforced as is. irc.spi.gt is a privately owned network, and as such any and all additional enforcement is entirely up to the network staff's discretion.
 
@@ -15,7 +15,7 @@ The following ruleset is a draft outline of the rules for the SpigotMC IRC netwo
 
 ###Channels and Users
 * Channels are monitored solely by the channel operators and owners. There should rarely be a need for network staff to intervene in a channel related issue.
-* At this point in time we will be attempting to police on-topic channel registration in line with the freenode policy. You may view the policy here: https://freenode.net/policy.shtml.
+* At this point in time we will be attempting to police on-topic channel registration in line with the [freenode policy](https://freenode.net/policy.shtml#ontopic).
 * Do not create/register a channel or group/register a nickname for the sole purpose of preventing another user from having it (squatting/juping). The channel or name in question may be dropped from your control.
 * Network staff may intervene in any situation where a channel or its name could be interpreted as malicious, inappropriate, misleading, or otherwise harmful to the network or its users (at the staff's discretion) regardless of the channel's namespace. 
 * Continuously evading a channel ban may result in network staff intervening.
