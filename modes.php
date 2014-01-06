@@ -19,6 +19,7 @@
     <body>
         <article>
             <p style="margin-bottom: 35px;">
+                <a href="index.html">Home</a> |
                 <a href="/iris/">Webchat</a> | 
                 <a href="rules.php">Rules</a> | 
                 <a href="modes.php">Modes and Extbans</a> | 
