@@ -1,4 +1,4 @@
-Home | [Webchat](iris/) | [Rules](rules.php) | [Modes and Extbans](modes.php) | [Services](services.php)
+Home | [Webchat](iris/) | [Rules](rules.php) | [Modes and Extbans](modes.php) | [Services](services.php) | [Servers](servers.php)
 
 #Why Hello There!
 
