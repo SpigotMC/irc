@@ -17,7 +17,13 @@
 
     <body>
         <article>
-	       <?php echo Parsedown::instance()->parse(file_get_contents("rules.md")); ?>
+            <p style="margin-bottom: 35px;">
+                <a href="/iris/">Webchat</a> | 
+                <a href="rules.php">Rules</a> | 
+                <a href="modes.php">Modes and Extbans</a> | 
+                <a href="services.php">Services</a>
+            </p>
+            <?php echo Parsedown::instance()->parse(file_get_contents("rules.md")); ?>
         </article>
     </body>
 </html>
