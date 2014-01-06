@@ -1,0 +1,6 @@
+Some other options for the CSS to use with Markdown:
+* https://github.com/mixu/markdown-styles
+* https://github.com/simonlc/Markdown-CSS/blob/master/markdown.css
+* https://github.com/int3h/sublimetext-markdown-preview/blob/de6655f3c58627539379802cd54ce6472bbe4fea/github.css (current)
+* https://github.com/jasonm23/markdown-css-themes
+* https://gist.github.com/andyferra/2554919
