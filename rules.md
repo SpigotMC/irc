@@ -1,3 +1,5 @@
+[Home](index.php) | [Webchat](iris/) | Rules | [Modes and Extbans](modes.php) | [Services](services.php)
+
 #Spigot IRC Ruleset
 #### Draft rev 2014-01-03
 

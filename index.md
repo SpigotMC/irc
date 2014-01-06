@@ -1,3 +1,5 @@
+Home | [Webchat](iris/) | [Rules](rules.php) | [Modes and Extbans](modes.php) | [Services](services.php)
+
 #Why Hello There!
 
 This server is part of the SpigotMC IRC network. For now we suggest that you connect to this server directly.

@@ -18,13 +18,6 @@
 
     <body>
         <article>
-            <p style="margin-bottom: 35px;">
-                <a href="index.html">Home</a> |
-                <a href="/iris/">Webchat</a> | 
-                <a href="rules.php">Rules</a> | 
-                <a href="modes.php">Modes and Extbans</a> | 
-                <a href="services.php">Services</a>
-            </p>
 	    <?php echo Markdown(file_get_contents("services.md")); ?>
         </article>
     </body>
