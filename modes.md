@@ -7,12 +7,12 @@ Note: To automatically grant someone a permission mode when they join the channe
 
 | Mode | Char | Arguments | Description |
 | ---- | ---- | --------- | ----------- |
-| q | ~ | nick!user@host | Grants a user channel founder (owner) status. |
-| a | & | nick!user@host | Grants a user channel admin (protected) status. |
-| o | @ | nick!user@host | Grants a user channel operator status. |
-| h | % | nick!user@host | Grants a user channel half-operator status. |
-| v | + | nick!user@host | Grants a user channel voice status.  This allows them to speak even when channel mode +m is set. |
-| b | | nick!user@host | Prevents users matching the specified mask from joining the channel. |
+| q | ~ | nick | Grants a user channel founder (owner) status. |
+| a | & | nick | Grants a user channel admin (protected) status. |
+| o | @ | nick | Grants a user channel operator status. |
+| h | % | nick | Grants a user channel half-operator status. |
+| v | + | nick | Grants a user channel voice status.  This allows them to speak even when channel mode +m is set. |
+| b | | nick!user@host | Bans users matching the specified mask from joining the channel. |
 | e | | nick!user@host | Allows users matching the specified mask to join the channel, even if there is a matching ban set. |
 | I | | nick!user@host | Allows users matching the specified mask to join the channel without an invitation when channel mode +i is set. |
 
