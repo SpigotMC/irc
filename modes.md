@@ -42,6 +42,7 @@ Note: To automatically grant someone a permission mode when they join the channe
 | s | | Marks a channel as secret, preventing it from being shown in the network channel list and users' WHOIS. |
 | T | | Blocks channel notices. |
 | t | | Requires a user to have half-op or higher permission to change the channel topic. |
+| X | restriction:mode | Allows users with the specified mode or higher (q, a, o, h, or v) to bypass the specified restriction (topiclock, blockcolor, filter, flood, noctcp, nonotice, regmoderated, or stripcolor). |
 
 ##Matching Extbans
 Matching extended bans can be used with channel modes +b, +e, and +I in place of the normal nick!user@host argument.  
