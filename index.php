@@ -1,10 +1,5 @@
 <?php
     require_once("lib/Markdown_Parser.php");
-    if(isset($_GET['ping']))
-    {
-        header("Access-Control-Allow-Origin: *");
-        die($_GET['ping']);
-    }
 ?>
 <!DOCTYPE html>
 <html>

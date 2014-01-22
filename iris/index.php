@@ -4,7 +4,9 @@ $host = gethostname();
 
 if( $host == 'comstock.spi.gt' )
 {
-    $host = $servers[ rand( 0, 5 ) ] . '.spi.gt';
+    $host = $servers[ rand( 0, count($servers) - 1 ) ] . '.spi.gt';
 }
 
-header( 'Location: ' . ( empty( $_SERVER[ 'HTTPS' ] ) ? 'http://' : 'https://' ) . $host . '/iris/', true, 302 );
+$location = ( empty( $_SERVER[ 'HTTPS' ] ) ? 'http://' : 'https://' ) . $host . htmlspecialchars($_SERVER[ 'REQUEST_URI' ]) . '/iris/';
+
+header( "Location: $location", true, 302 );
