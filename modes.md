@@ -35,6 +35,7 @@ Note: To automatically grant someone a permission mode when they join the channe
 | l | limit | Limits the channel to the specified amount of users. |
 | M | | Only allows users registered with services to speak in the channel. |
 | m | | Only allows users with voice or higher permission to speak in the channel. |
+| N | | Prevents users in the channel from changing their nickname. |
 | n | | Blocks messages sent to the channel from users who are not in the channel. |
 | p | | Marks a channel as private, preventing it from being shown in the network channel list. |
 | R | | Only allows users registered with services to join the channel. |
@@ -61,6 +62,7 @@ Acting extended bans can be used with channel modes +b and +e as a prefix to the
 | c: | Blocks messages containing color or control codes from the specified user. |
 | C: | Blocks CTCPs to the channel from the specified user (except ACTION). |
 | m: | Prevents the specified user from speaking in the channel. |
+| N: | Prevents the specified user from changing their nickname while in the channel. |
 | S: | Strips color and control codes from the specified user's messages. |
 | T: | Blocks channel notices from the specified user. |
 
