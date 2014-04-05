@@ -72,7 +72,7 @@ Acting extended bans can be used with channel modes +b and +e as a prefix to the
 | B | Marks the user as a bot. All bots should automatically set this mode on themselves when joining the network. |
 | c | Only allows private messages from users who are in channels that you are in. |
 | d | Prevents the user from receiving any messages or notices. |
-| g | Blocks private messages from people who are not on your /accept whitelist. |
+| g | Blocks private messages from people who are not on your /accept whitelist.  If someone who is not on your whitelist tries to PM you, you will receive a notification with their name, and they will be informed that their message was blocked. |
 | I | Hides all channels from a user's WHOIS output. |
 | i | User can only be seen in /who by network operators. |
 | o | User is a network operator. |
