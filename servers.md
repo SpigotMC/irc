@@ -12,4 +12,3 @@ Please note, we do not recommend connecting directly to specific servers.  Inste
 | fry.spi.gt      | Newark, NJ, USA     | ChunkrGames      |
 | dew.spi.gt      | Atlanta, GA, USA    | Overcast Network |
 | snow.spi.gt     | Alblasserdam, NL    | Darkshadow       |
-| comstock.spi.gt | Seattle, WA, USA    | SpigotMC         |
