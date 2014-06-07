@@ -11,4 +11,4 @@ Please note, we do not recommend connecting directly to specific servers.  Inste
 | elmer.spi.gt    | Tokyo, JP           | AEMNetwork       |
 | fry.spi.gt      | Newark, NJ, USA     | ChunkrGames      |
 | dew.spi.gt      | Atlanta, GA, USA    | Overcast Network |
-| snow.spi.gt     | Alblasserdam, NL    | Keith (bohler.io)|
+| snow.spi.gt     | Alblasserdam, NL    | Keith Bohler     |
