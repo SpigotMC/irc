@@ -1,7 +1,7 @@
 [Home](index.php) | [Webchat](iris/) | Rules | [Modes and Extbans](modes.php) | [Services](services.php) | [Servers](servers.php)
 
 #Spigot IRC Ruleset
-#### Draft rev 2014-01-09
+#### Draft rev 2014-10-04
 
 The following ruleset is a draft outline of the rules for the SpigotMC IRC network. Whilst these rules may be completely disparate from the final versions, at this point in time they will be enforced as is. irc.spi.gt is a privately owned network, and as such any and all additional enforcement is entirely up to the network staff's discretion.
 
