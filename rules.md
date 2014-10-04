@@ -41,3 +41,13 @@ The following ruleset is a draft outline of the rules for the SpigotMC IRC netwo
 * If you are running a bouncer service, it can help to let network staff know your IP address range to prevent block-wide network bans in case an issue arises.
 * Network staff decisions are final and rules will be enforced as the network staff interpret them, leniency may be given either way at the discretion of the staff.
 * If you have any general questions, please stop by #help to get them resolved. If you have questions regarding the rules stated here, please stop by #staff and we can clear up any concerns you may have, as the network staff interpretation may be different from your own.
+
+###Terms of Service
+
+* The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts ("Content"). Content submitted express the views of their author only.
+* You agree to not use the Service to submit or link to any Content which is defamatory, abusive, hateful, threatening, spam or spam-like, likely to offend, contains adult or objectionable content, contains personal information of others, risks copyright infringement, encourages unlawful activity, or otherwise violates any laws.
+* All Content you submit or upload may be reviewed by staff members. All Content you submit or upload may be sent to third-party verification services (including, but not limited to, spam prevention services). Do not submit any Content that you consider to be private or confidential.
+* We reserve the rights to remove or modify any Content submitted for any reason without explanation. Requests for Content to be removed or modified will be undertaken only at our discretion. We reserve the right to take action against any account with the Service at any time.
+* You are granting us with a non-exclusive, permanent, irrevocable, unlimited license to use, publish, or re-publish your Content in connection with the Service. You retain copyright over the Content.
+* These terms may be changed at any time without notice.
+* If you do not agree with these terms, please do not register or use this Service. If you wish to close your account, please contact us.
