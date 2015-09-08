@@ -8,4 +8,4 @@ Network rules can be viewed [here](rules.php).
 
 You can also make use of our webchat [here](/iris/).
 
-Looking for the [SpigotMC forums](http://spigotmc.org) or [downloads](http://ci.md-5.net/job/Spigot/)?
+Looking for the [SpigotMC forums](http://spigotmc.org) or [downloads](https://www.spigotmc.org/wiki/buildtools/)?
