@@ -7,7 +7,6 @@ Please note, we do not recommend connecting directly to specific servers.  Inste
 | Server          | Location            | Sponsor          |
 | --------------- | ------------------- | ---------------- |
 | buzz.spi.gt     | London, England, UK | HiveMC           |
-| toast.spi.gt    | Fremont, CA, USA    | MC-Core          |
 | elmer.spi.gt    | Tokyo, JP           | AEMNetwork       |
 | fry.spi.gt      | Newark, NJ, USA     | ChunkrGames      |
 | dew.spi.gt      | Atlanta, GA, USA    | Overcast Network |
