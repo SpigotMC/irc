@@ -15,6 +15,7 @@ ChanServ is responsible for maintaining control of a channel. You retain control
 | `SET` | &lt;#channel&gt; &lt;setting&gt; &lt;parameter&gt; | Sets various flags on the channel. |
 | `SET FOUNDER` | &lt;#channel&gt; FOUNDER &lt;nickname&gt; | Transfers ownership of the channel to another user. |
 | `RECOVER` | &lt;#channel&gt; | Restores control of a channel if someone tries to take over. |
+
 -----------------------------------------------------------------------------------------------
 ##<a name="ns"></a>NickServ 
 NickServ allows you to register a nickname and maintain control of it. Your nickname will expire if you are offline for 30 days, and control of any channels you have registered will be given to a successor or dropped. By default, if you log in with a registered nickname and do not identify within 30 seconds, your nickname will be changed.
