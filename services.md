@@ -25,4 +25,5 @@ NickServ allows you to register a nickname and maintain control of it. Your nick
 | `IDENTIFY` | [nickname] &lt;password&gt; | Identify yourself to NickServ with your nickname (optional if you are currently using it) and password. Generally this should be part of an automatically run command list in your client if it supports it. |
 | `GHOST` | &lt;nickname&gt; [password] | Forcibly disconnects a user using a nickname registered to your account. If you are logged in to your account currently, you are not required to supply a password. |
 | `GROUP` | | Registers your current nickname to your NickServ account (assuming you are logged in). |
+| `UNGROUP` | [nickname] | Unregisters your current nickname to your NickServ account (assuming you are logged in). |
 | `DROP` | &lt;name&gt; &lt;password&gt; | Unregisters your account and all nicknames and channels associated with it. |
