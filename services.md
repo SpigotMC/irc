@@ -15,6 +15,7 @@ ChanServ is responsible for maintaining control of a channel. You retain control
 | `SET` | &lt;#channel&gt; &lt;setting&gt; &lt;parameter&gt; | Sets various flags on the channel. |
 | `SET FOUNDER` | &lt;#channel&gt; FOUNDER &lt;nickname&gt; | Transfers ownership of the channel to another user. |
 | `RECOVER` | &lt;#channel&gt; | Restores control of a channel if someone tries to take over. |
+
 -----------------------------------------------------------------------------------------------
 ##<a name="ns"></a>NickServ 
 NickServ allows you to register a nickname and maintain control of it. Your nickname will expire if you are offline for 30 days, and control of any channels you have registered will be given to a successor or dropped. By default, if you log in with a registered nickname and do not identify within 30 seconds, your nickname will be changed.
@@ -25,4 +26,5 @@ NickServ allows you to register a nickname and maintain control of it. Your nick
 | `IDENTIFY` | [nickname] &lt;password&gt; | Identify yourself to NickServ with your nickname (optional if you are currently using it) and password. Generally this should be part of an automatically run command list in your client if it supports it. |
 | `GHOST` | &lt;nickname&gt; [password] | Forcibly disconnects a user using a nickname registered to your account. If you are logged in to your account currently, you are not required to supply a password. |
 | `GROUP` | | Registers your current nickname to your NickServ account (assuming you are logged in). |
+| `UNGROUP` | [nickname] | Unregisters your current nickname to your NickServ account (assuming you are logged in). |
 | `DROP` | &lt;name&gt; &lt;password&gt; | Unregisters your account and all nicknames and channels associated with it. |
