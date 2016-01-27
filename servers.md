@@ -11,3 +11,4 @@ Please note, we do not recommend connecting directly to specific servers.  Inste
 | fry.spi.gt      | Newark, NJ, USA     | ChunkrGames      |
 | dew.spi.gt      | Atlanta, GA, USA    | Overcast Network |
 | simba.spi.gt    | Singapore, SG       | SpigotMC         |
+| hansel.spi.gt   | Frankfurt, DE       | SpigotMC         |
