@@ -32,6 +32,7 @@ Note: To automatically grant someone a permission mode when they join the channe
 | J | seconds | Prevents a user from rejoining the channel for the specified time after being kicked. |
 | j | joins:seconds | Enforces a limit on how many users can join the channel in the specified time frame. |
 | k | password | Requires the specified password to join the channel. |
+| L | channel | Forwards users to the specified channel once the limit (channel mode +l) is reached. |
 | l | limit | Limits the channel to the specified amount of users. |
 | M | | Only allows users registered with services to speak in the channel. |
 | m | | Only allows users with voice or higher permission to speak in the channel. |
