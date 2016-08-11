@@ -9,6 +9,6 @@ Please note, we do not recommend connecting directly to specific servers.  Inste
 | buzz.spi.gt     | London, England, UK | HiveMC           |
 | elmer.spi.gt    | Tokyo, JP           | SpigotMC         |
 | fry.spi.gt      | Newark, NJ, USA     | SpigotMC         |
-| dew.spi.gt      | Atlanta, GA, USA    | Overcast Network |
+| dew.spi.gt      | Atlanta, GA, USA    | SpigotMC         |
 | simba.spi.gt    | Singapore, SG       | SpigotMC         |
 | hansel.spi.gt   | Frankfurt, DE       | SpigotMC         |
