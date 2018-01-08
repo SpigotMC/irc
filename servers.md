@@ -6,8 +6,7 @@ Please note, we do not recommend connecting directly to specific servers.  Inste
 
 | Server          | Location            | Sponsor          |
 | --------------- | ------------------- | ---------------- |
-| buzz.spi.gt     | London, England, UK | HiveMC           |
-| elmer.spi.gt    | Tokyo, JP           | SpigotMC         |
+| buzz.spi.gt     | London, England, UK | SpigotMC         |
 | fry.spi.gt      | Newark, NJ, USA     | SpigotMC         |
 | simba.spi.gt    | Singapore, SG       | SpigotMC         |
 | hansel.spi.gt   | Frankfurt, DE       | SpigotMC         |
