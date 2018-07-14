@@ -2,7 +2,7 @@
 
 #Spigot IRC Services
 
-The spi.gt network uses [Atheme](http://atheme.net/atheme.html) IRC services. Below is list of some useful commands. All commands should be sent to the specified services bot as a `PRIVMSG`. A full list of commands can be found in the [Atheme Documentation](http://atheme.net/help/7.1/index.html).
+The spi.gt network uses [Atheme](https://atheme.github.io/atheme.html) IRC services. Below is list of some useful commands. All commands should be sent to the specified services bot as a `PRIVMSG`. A full list of commands can be found in the [Atheme Documentation](https://github.com/atheme/atheme/wiki).
 
 ##<a name="cs"></a>ChanServ
 ChanServ is responsible for maintaining control of a channel. You retain control of channels registered through ChanServ, even when you're offline.
