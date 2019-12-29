@@ -10,4 +10,3 @@ Please note, we do not recommend connecting directly to specific servers.  Inste
 | buzz.spi.gt     | London, England, UK | SpigotMC         |
 | fry.spi.gt      | Newark, NJ, USA     | SpigotMC         |
 | simba.spi.gt    | Singapore, SG       | SpigotMC         |
-| hansel.spi.gt   | Frankfurt, DE       | SpigotMC         |
